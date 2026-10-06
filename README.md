@@ -9,7 +9,6 @@ Trace gerado no Grafana Tempo:
 
 ![Trace no Grafana Tempo](img/trace-01.png)
 
-
 Para integrar esta aplicação com o **Grafana Cloud** deve-se acessar a **opção OpenTelemetry**:
 
 ![OpenTelemetry no Grafana Cloud](img/grafana-cloud-01.png)
