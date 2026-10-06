@@ -7,4 +7,17 @@ API REST consumida por este projeto: **https://github.com/renatogroffe/aspnetcor
 
 Trace gerado no Grafana Tempo:
 
-![Trace no Grafana Tempo](img/tempo-01.png)
+![Trace no Grafana Tempo](img/trace-01.png)
+
+
+Para integrar esta aplicação com o **Grafana Cloud** deve-se acessar a **opção OpenTelemetry**:
+
+![OpenTelemetry no Grafana Cloud](img/grafana-cloud-01.png)
+
+Acessar em **Password / API Token** a opção **Generate now**:
+
+![Gerando novo token](img/grafana-cloud-02.png)
+
+Criando assim um novo token (inserido no arquivo .env para este exemplo):
+
+![Novo token gerado](img/grafana-cloud-03.png)
